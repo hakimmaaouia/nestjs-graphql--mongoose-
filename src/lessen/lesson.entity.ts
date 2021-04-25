@@ -12,6 +12,9 @@ name : string ;
 startDate: string ; 
 @Prop()
 endDate : string;
+
+@Prop()
+students: [string]
 }
 
 
