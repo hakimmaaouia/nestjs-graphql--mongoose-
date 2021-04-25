@@ -29,6 +29,7 @@
     "apollo-server-express": "^2.23.0",
     "class-transformer": "^0.4.0",
     "class-validator": "^0.13.1",
+    "config": "^3.3.6",
     "graphql": "^15.5.0",
     "graphql-tools": "^7.0.4",
     "mongo": "^0.1.0",

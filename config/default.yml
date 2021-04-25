@@ -1,0 +1,8 @@
+server: 
+  prot: 3000
+db:
+  type: 'mongodb'
+  port: 3000
+  password: "azertyuiop123"
+  databasename: "myFirstDatabase"
+  user: "hakim"
